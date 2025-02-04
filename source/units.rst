@@ -99,7 +99,7 @@ Magnetic Unit Converter
     </div>
 
     <script>
-        // Permeability of free space: μ₀ = 4π×10⁻⁷ H/m
+        // Permeability of free space
         const mu0 = 4 * Math.PI * 1e-7;
 
         // Available prefixes – default (none) is represented by the empty string.
@@ -121,12 +121,6 @@ Magnetic Unit Converter
 
         /*  
         Conversion factors between base units.
-        For example:
-            - 1 T = 1 T.
-            - 1 T = 1e4 G.
-            - 1 T = 1/μ₀ A/m.
-            - 1 T = 1e4 Oe.
-        Other conversions are derived accordingly.
         */
         const conversionFactor = {
         "T": {
@@ -139,18 +133,18 @@ Magnetic Unit Converter
             "T": 1e-4,
             "G": 1,
             "A/m": 1e-4 / mu0,
-            "Oe": 1e-4 * 1e4
+            "Oe": 1
         },
         "A/m": {
             "T": mu0,
             "G": mu0 * 1e4,
             "A/m": 1,
-            "Oe": 4 * Math.PI / 1000
+            "Oe": 1e4 * mu0
         },
         "Oe": {
             "T": 1e-4,
             "G": 1,
-            "A/m": 1000 / (4 * Math.PI),
+            "A/m": 1e-4 / mu0,
             "Oe": 1
         }
         };
