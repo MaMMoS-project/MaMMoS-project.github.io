@@ -1,3 +1,5 @@
 sphinx
 pydata-sphinx-theme
 sphinxcontrib-email
+pytest
+astropy
