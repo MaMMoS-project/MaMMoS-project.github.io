@@ -5,12 +5,13 @@ on:
   push:
     branches:
       - main
+  pull_request:
 
 permissions:
   contents: write
 
 jobs:
-  publish:
+  build:
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -30,8 +31,32 @@ jobs:
     - name: build website
       run: make html
 
-    - name: Deploy changes
-      uses: JamesIves/github-pages-deploy-action@v4
+    - name: link check
+      run: make linkcheck
+      continue-on-error: true  # check for broken links but do not fail job, an error is still displayed in the job output
+
+    - name: upload pages artifacts
+      uses: actions/upload-pages-artifact@v3
       with:
-        branch: gh-pages
-        folder: build/html
+        path: build/html/
+
+  deploy:
+    if: ${{ github.ref == 'refs/heads/main' }}
+
+    needs: build
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{steps.deployment.outputs.page_url}}
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
+
