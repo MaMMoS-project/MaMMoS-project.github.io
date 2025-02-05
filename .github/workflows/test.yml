@@ -3,6 +3,8 @@ name: JS Conversion Tests
 on:
   workflow_dispatch:
   push:
+    branches:
+      - main
   pull_request:
 
 jobs:
