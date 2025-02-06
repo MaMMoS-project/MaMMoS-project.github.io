@@ -173,3 +173,18 @@ Magnetic Unit Converter
    </script>
    </body>
    </html>
+
+This magnetic unit converter allows you to convert between different magnetic units. Simply enter a value, select the units you want to convert from and to, and the converter will display the result.
+
+Unit Details
+------------
+
+Below are details of the magnetic units available in this converter:
+
+- **T (Tesla)**: The SI unit for magnetic flux density.
+- **G (Gauss)**: The CGS unit for magnetic flux density.
+- **A/m (Ampere per meter)**: The SI unit for magnetic field strength.
+- **Oe (Oersted)**: The CGS unit for magnetic field strength.
+
+**Conversion Note:**  
+All unit conversions in this app are performed assuming a relative permeability (μᵣ) of 1. This assumption treats the medium as non-magnetic (e.g., free space or vacuum).
