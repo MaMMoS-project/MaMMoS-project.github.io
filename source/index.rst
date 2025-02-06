@@ -14,6 +14,7 @@
    objectives
    who-we-are
    events
+   units
    news
    open-positions
    related-eu-projects
