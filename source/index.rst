@@ -18,6 +18,7 @@
    news
    open-positions
    related-eu-projects
+   materials-ontology
 
 
 What is MaMMos about?
