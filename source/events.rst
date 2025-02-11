@@ -1,6 +1,21 @@
 Events
 ======
 
+MaMMoS project meeting, January 2025
+------------------------------------
+
+From January 28 to 29, 2025, a highly productive project meeting for Project Magnetic
+Multiscale Modelling Suide (MaMMos) took place at the Max Planck Computing and Data
+Facility (MPCDF) in Garching, Munich.
+The meeting brought together the international project teams to discuss the latest
+advancements and future directions of the project.
+
+.. image:: _static/ProjectMeeting2025.jpg
+    :width: 800
+
+
+
+
 `MMM Prague <https://mmm11.ipm.cz/>`_
 -------------------------------------
 
