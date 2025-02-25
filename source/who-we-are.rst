@@ -96,7 +96,6 @@ Team
     :widths: 50, 100
 
     "`Alena Vishina <https://www.uu.se/en/contact-and-organisation/staff?query=N18-2312>`_", "UU"
-    "`Alexander Kovacs <https://www.donau-uni.ac.at/de/universitaet/organisation/mitarbeiterinnen/person/4295279727>`_", "UWK"
     "`Andre Dias <https://www.linkedin.com/in/andreluisbd/>`_", "CNRS"
     "`Andrea Petrocchi <https://www.mpsd.mpg.de/person/135275/2736>`_", "MPG"
     "`Andreas Marek <https://www.mpcdf.mpg.de/person/110526>`_", "Max-Planck Computing and Data Facility"
