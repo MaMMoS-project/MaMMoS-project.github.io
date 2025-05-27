@@ -1,6 +1,20 @@
 Events
 ======
 
+International Workshop on “Data-Driven Magnetic Materials Design and Optimization”
+----------------------------------------------------------------------------------
+On April 7, 2025, the Department for Integrated Sensor Systems at the University for Continuing Education Krems,
+as the coordinator of the EU Horizon project MaMMos "Magnetic Multiscale Modelling Suite," hosted a high-profile
+workshop on "Data-Driven Magnetic Materials Design and Optimization."
+
+The event, held in the Böcklsaal at the Technical University of Vienna, brought together leading experts
+from industry and academia. Invited speaker and international guests discussed the latest developments and
+challenges in data-driven magnetic materials design and optimization.
+
+.. image:: _static/workshop_DDMMDO.jpg
+    :width: 800
+
+
 MaMMoS project meeting, January 2025
 ------------------------------------
 
