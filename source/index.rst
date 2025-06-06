@@ -33,6 +33,12 @@ characterisation, and numerical optimisation.
 .. image:: _static/sectors.png
     :width: 600
 
+MaMMoS Software
+---------------
+
+- [MaMMoS software documentation](https://mammos-project.github.io/mammos/)
+- [MaMMoS repositories on GitHub](https://github.com/orgs/MaMMoS-project/repositories)
+
 
 Further information
 -------------------
