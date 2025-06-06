@@ -36,8 +36,8 @@ characterisation, and numerical optimisation.
 MaMMoS Software
 ---------------
 
-- [MaMMoS software documentation](https://mammos-project.github.io/mammos/)
-- [MaMMoS repositories on GitHub](https://github.com/orgs/MaMMoS-project/repositories)
+- `MaMMoS software documentation <https://mammos-project.github.io/mammos/>`
+- `MaMMoS repositories on GitHub <https://github.com/orgs/MaMMoS-project/repositories>`
 
 
 Further information
