@@ -3,7 +3,7 @@ from pathlib import Path
 import execjs  # PyExecJS
 import pytest
 import itertools
-import mammosunits as u
+import mammos_units as u
 
 u.set_enabled_equivalencies(u.magnetic_flux_field())
 
