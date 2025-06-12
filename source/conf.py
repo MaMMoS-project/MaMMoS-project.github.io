@@ -38,6 +38,9 @@ html_theme_options = {
         },
     ],
     "show_prev_next": False,
-    "header_links_before_dropdown": 6
+    "header_links_before_dropdown": 6,
+    "secondary_sidebar_items": ["page-toc"],
 }
-html_sidebars = {}
+html_sidebars = {
+    "**": []  # no subpages that would require the left sidebar
+}
