@@ -28,6 +28,7 @@ exclude_patterns = []
 
 html_theme = 'pydata_sphinx_theme'
 html_logo = '_static/mammos-logo.png'
+html_favicon = '_static/mammos-favicon.png'
 html_static_path = ['_static']
 html_theme_options = {
     "icon_links": [
@@ -38,6 +39,9 @@ html_theme_options = {
         },
     ],
     "show_prev_next": False,
-    "header_links_before_dropdown": 6
+    "header_links_before_dropdown": 6,
+    "secondary_sidebar_items": ["page-toc"],
 }
-html_sidebars = {}
+html_sidebars = {
+    "**": []  # no subpages that would require the left sidebar
+}
