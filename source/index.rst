@@ -20,25 +20,77 @@
    related-eu-projects
 
 
-What is MaMMos about?
+What is MaMMoS about?
 ---------------------
 
 Magnetic materials are essential for many applications in energy, information, and communication technologies.
 However, the complex phenomena at different length and time scales often limit the development of new magnetic
 materials and devices. The goal of this project is to develop a magnetic multiscale modeling suite that will
 allow the design and optimisation of magnetic materials and devices based on multiscale modelling,
-characterisation, and numerical optimisation. 
+characterisation, and numerical optimisation.
 
 
 .. image:: _static/sectors.png
     :width: 600
 
-MaMMoS Software
----------------
+MaMMoS Framework Software
+-------------------------
 
-- `MaMMoS software documentation <https://mammos-project.github.io/mammos/>`_
-- `MaMMoS repositories on GitHub <https://github.com/orgs/MaMMoS-project/repositories>`_
+The MaMMoS framework provides software components for magnetic multiscale
+modeling. The following table provides a short overview and contains links to
+the individual repositories and the documentation:
 
+.. list-table::
+   :header-rows: 1
+
+   * - Package repository
+     - Summary
+   * - `mammos <https://github.com/mammos-project/mammos>`__
+       (`documentation <https://mammos-project.github.io/mammos>`__)
+     - Meta package to install the full MaMMoS simulation suite.
+   * - `mammos-analysis <https://github.com/mammos-project/mammos-analysis>`__
+       (`documentation <https://mammos-project.github.io/mammos>`__)
+     -  Post-processing (hysteresis loop, kuzmin, ...).
+   * - `mammos-dft <https://github.com/mammos-project/mammos-dft>`__
+       (`documentation <https://mammos-project.github.io/mammos>`__)
+     - DFT-based magnetic material properties.
+   * - `mammos-entity <https://github.com/mammos-project/mammos-entity>`__
+       (`documentation <https://mammos-project.github.io/mammos>`__)
+     - Entity (Quantity and EMMO ontology label).
+   * - `mammos-mumag <https://github.com/mammos-project/mammos-mumag>`__
+       (`documentation <https://mammos-project.github.io/mammos>`__)
+     - Finite-element micromagnetic simulations (hysteresis).
+   * - `mammos-spindynamics <https://github.com/mammos-project/mammos-spindynamics>`__
+       (`documentation <https://mammos-project.github.io/mammos>`__)
+     - Spindynamics-based magnetic material properties.
+   * - `mammos-units <https://github.com/mammos-project/mammos-units>`__
+       (`documentation <https://mammos-project.github.io/mammos>`__)
+     - Quantities (values with units).
+
+Additional Tools
+----------------
+
+The following tools have been created through or supported by the MaMMoS
+project. For each, please follow the link for installation instructions and
+documentation:
+
+.. list-table::
+   :header-rows: 1
+
+   * - Package repository
+     - Summary
+   * - `mochada_kit <https://github.com/MaMMoS-project/mochada_kit>`__
+       (`documentation <https://mammos-project.github.io/mochada_kit/user/index.html>`__)
+     - Workflow diagram builder
+   * - `sem_io <https://github.com/MaMMoS-project/sem_io>`__
+       (`documentation <https://github.com/MaMMoS-project/sem_io/blob/main/README.md>`__)
+     - Metadata extraction from SEM images
+   * - `DaHU <https://github.com/MaMMoS-project/DaHU>`__
+       (`documentation <https://github.com/MaMMoS-project/DaHU/blob/main/README.md>`__)
+     - Data analysis dashboard for specific instruments at Institut Néel
+   * - `Read_HDF5 <https://github.com/MaMMoS-project/Read_HDF5>`__
+       (`documentation <https://github.com/MaMMoS-project/Read_HDF5/blob/main/readme.md>`__)
+     - Data tools to read and write HDF5 files at Institute Néel
 
 Further information
 -------------------
