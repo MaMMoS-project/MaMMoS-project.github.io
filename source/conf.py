@@ -28,6 +28,7 @@ exclude_patterns = []
 
 html_theme = 'pydata_sphinx_theme'
 html_logo = '_static/mammos-logo.png'
+html_favicon = '_static/mammos-favicon.png'
 html_static_path = ['_static']
 html_theme_options = {
     "icon_links": [
