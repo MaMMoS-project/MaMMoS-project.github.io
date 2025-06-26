@@ -15,7 +15,7 @@
    who-we-are
    events
    units
-   news
+   resources
    open-positions
    related-eu-projects
 

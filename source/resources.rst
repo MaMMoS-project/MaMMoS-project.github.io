@@ -1,0 +1,10 @@
+Resources
+=========
+
+
+`Pixi tutorial <https://keeper.mpdl.mpg.de/d/d4b6932606f64a6497fa/>`__
+    Introduction to the tool `Pixi <https://pixi.sh>`__ for software environment and package management. Contains a recording of the presentation, slides and code snippets. May 2025.
+`CHADA diagram <https://keeper.mpdl.mpg.de/f/8e3bdc8ed4e74b0aacf8/?dl=1>`__
+    Deliverable 3.1 CHADA Diagrams. June 2024.
+`MODA diagram <https://keeper.mpdl.mpg.de/f/308624a4e27a4f1ea7aa/?dl=1>`__
+    Deliverable 4.1 MODA Diagrams. June 2024.
