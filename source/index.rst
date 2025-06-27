@@ -91,6 +91,10 @@ documentation:
    * - `Read_HDF5 <https://github.com/MaMMoS-project/Read_HDF5>`__
        (`documentation <https://github.com/MaMMoS-project/Read_HDF5/blob/main/readme.md>`__)
      - Data tools to read and write HDF5 files at Institute Néel
+   * - `nomad <https://github.com/MaMMoS-project/nomad>`__
+       (`documentation <https://github.com/MaMMoS-project/nomad/blob/main/README.md>`__)
+     - Tools for uploading data to Nomad
+
 
 Further information
 -------------------
