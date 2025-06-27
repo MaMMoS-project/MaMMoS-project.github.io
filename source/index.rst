@@ -94,6 +94,9 @@ documentation:
    * - `nomad <https://github.com/MaMMoS-project/nomad>`__
        (`documentation <https://github.com/MaMMoS-project/nomad/blob/main/README.md>`__)
      - Tools for uploading data to Nomad
+   * - `magmeas <https://github.com/MaMMoS-project/magmeas>`__
+       (`documentation <https://github.com/MaMMoS-project/magmeas/blob/main/README.md>`__)
+     - Python package to import magnetometry data and calculate extrinsic magnetic properties
 
 
 Further information
