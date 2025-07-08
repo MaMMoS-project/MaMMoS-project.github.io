@@ -3,7 +3,7 @@ Related EU Projects
 
 `DigiCell <https://www.digicell-project.eu/>`_
 
-`DECODE <https://decodeproject.eu/index.html>`_
+`DECODE <https://decode-energy.eu/>`_
 
 `HyWay <https://hywayse.eu/>`_
 
