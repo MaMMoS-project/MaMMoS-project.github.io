@@ -1,6 +1,26 @@
 Events
 ======
 
+2025 Joint European Magnetic Symposia (JEMS)
+--------------------------------------------
+
+The Joint European Magnetic Symposia (JEMS 2025) was held in Darmstadt, Germany from August 31 to September 5, 2025.
+This conference was attended by several MaMMoS researchers and their contributions provided an excellent opportunity for scientific exchange and networking in the field of magnetism.
+
+Oleksandr Hrushko from the University for Continuing Education Krems (UWK) presented a poster titled “Enhancing the Material Property Map for Hot Deformation and Design of Nd-Fe-B Magnets”.
+
+Bruno Lessmann-Fertig from the Leibniz Institute for Solid State and Material Research Dresden (IFW) showcased a poster titled “Effect of Doping on the Structure and Magnetic Properties of Y-Fe Compounds”.
+
+Pierre Le Berre from Institut Néel, Université Grenoble Alpes, presented a poster  titled "Development of data handling tools for high-throughput experiments – Towards sustainable magnets".
+
+Santa Pile from the University for Continuing Education Krems (UWK) led a talk entitled “A Python-based Finite Element Micromagnetic Solver with GPU Support”, focused on computational developments supporting micromagnetic simulations.
+
+.. image:: _static/jems2025.jpg
+    :width: 800
+
+
+
+
 International Workshop on “Data-Driven Magnetic Materials Design and Optimization”
 ----------------------------------------------------------------------------------
 On April 7, 2025, the Department for Integrated Sensor Systems at the University for Continuing Education Krems,
@@ -13,6 +33,8 @@ challenges in data-driven magnetic materials design and optimization.
 
 .. image:: _static/workshop_DDMMDO.jpg
     :width: 800
+
+
 
 
 MaMMoS project meeting, January 2025
