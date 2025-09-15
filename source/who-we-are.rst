@@ -14,13 +14,13 @@ machine learning and for validating multiscale simulations including structural 
 level performance.
 
 
-`Leibnitz IFW - Dresden <https://www.ifw-dresden.de/>`_
--------------------------------------------------------
+`Leibniz IFW - Dresden <https://www.ifw-dresden.de/>`_
+------------------------------------------------------
 
 **Information:** The Leibniz Institute for Solid State and Materials Research Dresden is a non-university
 research institute and a member of the Leibniz Association. It conducts materials science on a scientific basis.
 
-**Role in the Project:** Leibnitz IFW Dresden participates in multi-scale characterization and multi-scale
+**Role in the Project:** Leibniz IFW Dresden participates in multi-scale characterization and multi-scale
 modelling.
 
 
@@ -64,14 +64,14 @@ results of the project and to increase awareness for the benefits of data integr
 modelling for the development of materials for the European Green Deal.
 
 
-`University of Continuing Education Krems - Austria <https://www.donau-uni.ac.at/en.html>`_
--------------------------------------------------------------------------------------------
+`University for Continuing Education Krems - Austria <https://www.donau-uni.ac.at/en.html>`_
+--------------------------------------------------------------------------------------------
 
 **Information:** The University for Continuing Education Krems is an Austrian university specializing in further
 education for working professionals. The Department for Integrated Sensor Systems is located in Wiener Neustadt,
 Lower Austria.
 
-**Role in the project:** The University of Continuing Education Krems is the project coordinator and involved in
+**Role in the project:** The University for Continuing Education Krems is the project coordinator and involved in
 all workpackages. The main tasks are Coordination and Management and Use Case Demonstration, which involves to
 Integrate MaMMoS software suite in EU platforms for materials simulations, and to show use cases in an online
 demonstrator,  define benchmarks, and validate MaMMoS against benchmarks.
