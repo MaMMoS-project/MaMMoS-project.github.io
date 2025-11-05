@@ -1,6 +1,30 @@
 Events
 ======
 
+MaMMoS Webinar Series
+---------------------
+
+Since January 2024, the Horizon MaMMoS project has been developing a multiscale modelling suite to help design and optimise magnetic materials and devices.
+We’re now sharing early results and tools through two introductory webinars.
+
+Webinar 1 — Generating machine-readable workflow diagrams with mochada_kit
+
+Speaker: Dr Thomas G. Woodcock
+
+Details: https://emmc.eu/events/mammos-werbinar-series-web-1
+
+
+Webinar 2 — Making research outputs FAIRer with reproducible software installation (and pixi)
+
+Speaker: Prof Hans Fangohr
+
+Details: https://emmc.eu/events/mammos-werbinar-series-web-2/
+
+
+.. image:: _static/MaMMoS_Webinars.png
+    :width: 800
+
+
 2025 Joint European Magnetic Symposia (JEMS)
 --------------------------------------------
 
