@@ -5,6 +5,8 @@ Resources
     Deliverable 3.2: Initial characterisation data. June 2025.
 `Initial set of simulation data <https://keeper.mpdl.mpg.de/d/3fca0cd22950465aaf6e/>`__
     Deliverable 4.2: Initial set of simulation data. June 2025.
+`Definition of benchmark <https://keeper.mpdl.mpg.de/d/3e5920c1c1364dc7b409/>`__
+    Deliverable 6.2: Definition of benchmark. December 2025.
 `Pixi tutorial <https://keeper.mpdl.mpg.de/d/d4b6932606f64a6497fa/>`__
     Introduction to the tool `Pixi <https://pixi.sh>`__ for software environment and package management. Contains a recording of the presentation, slides and code snippets. May 2025.
 `Git and GitHub tutorial <https://keeper.mpdl.mpg.de/d/0ef5f6c84d154bf9aad3/>`__
