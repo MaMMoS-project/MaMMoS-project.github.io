@@ -37,8 +37,19 @@ MaMMoS Framework Software
 -------------------------
 
 The MaMMoS framework provides software components for magnetic multiscale
-modeling. The following table provides a short overview and contains links to
-the individual repositories and the documentation:
+modeling.
+
+The `MaMMoS demonstator
+<https://mammos-project.github.io/mammos/demonstrator/>`__ contains end-to-end
+workflows combining functionality of multiple of the MaMMoS framework
+components. Each workflow is provided as a Jupyter notebook, which can be
+browsed as static HTML on the demonstrator webpages, executed in the cloud, or
+downloaded for local execution with more powerful hardware. Further details can
+be found on the demonstrator page.
+
+The following table provides a short overview of the individual framework
+components and contains links to the individual repositories and the
+documentation:
 
 .. list-table::
    :header-rows: 1
