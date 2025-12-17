@@ -110,12 +110,6 @@ documentation:
      - Python package to import magnetometry data and calculate extrinsic magnetic properties
 
 
-Current vacancies
------------------
-
-One upcoming `open position at MPSD in Hamburg <open-positions.html>`__ (September 2025).
-
-
 Further information
 -------------------
 
