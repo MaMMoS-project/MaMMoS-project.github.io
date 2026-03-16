@@ -9,9 +9,9 @@ Since the beginning of the MaMMoS project, the Max Planck Computing and Data Fac
 1. **Software Engineering in Python**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This course walks participants through the entire lifecycle of a Python project — from a single-script prototype to a fully version-controlled, tested, and publishable package ready for collaborative development.
+This course walks participants through the entire lifecycle of a Python project, spanning from a single-script prototype to a fully version-controlled, tested, and publishable package ready for collaborative development.
 
-Short, focused lectures alternate with practical, guided coding sessions to ensure participants can immediately apply what they’ve learned. While the hands-on exercises use Python, the core concepts (project structure, version control, testing strategies, CI/CD, documentation, etc.) are language-agnostic and transferable to other ecosystems.
+Short, focused lectures alternate with practical, guided coding sessions to ensure participants can immediately apply what they have learned. While the hands-on exercises use Python, the core concepts (project structure, version control, testing strategies, CI/CD, documentation, etc.) are language-agnostic and transferable to other ecosystems.
 
 **Next Edition:**
 
@@ -79,15 +79,15 @@ A two-day course tailored for researchers aiming to accelerate scientific discov
 
 Chapter 1 – Adding New Knowledge to Large Language Models (LLMs)
 
-- Dataset preparation & curation.
+- Dataset preparation and curation.
 
 - Continual pre-training.
 
 - Low-precision training.
 
-- Supervised fine-tuning, alignment & evaluation.
+- Supervised fine-tuning, alignment and evaluation.
 
-- Model compression & inference optimizations.
+- Model compression and inference optimizations.
 
 Chapter 2 – AI for Science (Half Day)
 
