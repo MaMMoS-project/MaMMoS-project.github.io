@@ -17,7 +17,7 @@ Short, focused lectures alternate with practical, guided coding sessions to ensu
 
 - 23–24 March 2026, Fritz Haber Institute of the Max Planck Society, Berlin.
 
-**Past Editions:**  
+**Past Editions:**
 
 - 2-3 March 2026, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig.
 - 17-18 November 2025, Max Planck Institute for Plasma Physics, Garching.
@@ -65,9 +65,9 @@ By successfully completing the final assessment, participants earn an **NVIDIA D
 
 To be scheduled.
 
-**Past Editions:**  
+**Past Editions:**
 
-- 4 March 2026, Max Planck Institute for Human Cognitive and Brain Sciences Leipzig.
+- 4 March 2026, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig.
 - 9 December 2025, Max Planck Computing and Data Facility, Garching.
 - 21 October 2025, Max Planck Computing and Data Facility, Garching.
 
@@ -99,11 +99,11 @@ Chapter 2 – AI for Science (Half Day)
 
 - Digital Biology with BioNeMo.
 
-**Next Edition:**  
+**Next Edition:**
 
 - 28–29 April 2026, Max Planck Computing and Data Facility, Garching (First edition). `Link to the agenda. <https://events.gwdg.de/e/mpcdf-nvidia-ai-days>`_
 
-**Past Editions:**  
+**Past Editions:**
 
 - None.
 
