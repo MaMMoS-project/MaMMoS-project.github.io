@@ -18,10 +18,7 @@ Short, focused lectures alternate with practical, guided coding sessions to ensu
 **Past Editions:**  
 - XXX
 
-2. **Fundamentals of Deep Learning**
--------------------------------
-
-*(In collaboration with the NVIDIA Deep Learning Institute <https://www.nvidia.com/en-us/training/>)*
+2. **Fundamentals of Deep Learning** *(in collaboration with the NVIDIA Deep Learning Institute <https://www.nvidia.com/en-us/training/>)*
 
 This NVIDIA Deep Learning Institute (DLI) course provides a comprehensive, hands-on introduction to the fundamentals of deep learning.
 
@@ -49,10 +46,7 @@ By successfully completing the final assessment, participants earn an **NVIDIA D
 **Past Editions:**  
 - XXX
 
-3. **AI for Science**
--------------------
-
-*(In collaboration with NVIDIA)*
+3. **AI for Science** *(in collaboration with NVIDIA)*
 
 A two-day course tailored for researchers aiming to accelerate scientific discovery with AI.
 
