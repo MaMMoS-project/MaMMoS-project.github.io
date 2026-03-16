@@ -13,18 +13,20 @@ This course walks participants through the entire lifecycle of a Python project 
 
 Short, focused lectures alternate with practical, guided coding sessions to ensure participants can immediately apply what they’ve learned. While the hands-on exercises use Python, the core concepts (project structure, version control, testing strategies, CI/CD, documentation, etc.) are language-agnostic and transferable to other ecosystems.
 
-**Next Edition:**  
+**Next Edition:**
+
 - March 23–24, 2026 — Fritz Haber Institute of the Max Planck Society — Berlin  
 
 **Past Editions:**  
+
 - XXX
 
-2. **Fundamentals of Deep Learning (in collaboration with the `NVIDIA Deep Learning Institute <https://www.nvidia.com/en-us/training/>`_)**
+2. **Fundamentals of Deep Learning (in collaboration with the `NVIDIA Deep Learning Institute <https://www.nvidia.com/en-us/training/>`_ )**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This NVIDIA Deep Learning Institute (DLI) course provides a comprehensive, hands-on introduction to the fundamentals of deep learning.
 
-Through practical exercises, participants will train neural networks from the ground up for both computer vision and natural language processing applications. They’ll gain experience with essential tools and techniques to enhance model performance and learn how to efficiently apply cutting-edge pre-trained models to accelerate their own projects.
+Through practical exercises, participants will train neural networks from the ground up for both computer vision and natural language processing applications. They will gain experience with essential tools and techniques to enhance model performance and learn how to efficiently apply cutting-edge pre-trained models to accelerate their own projects.
 
 By successfully completing the final assessment, participants earn an **NVIDIA DLI certificate**, demonstrating proficiency in foundational deep learning concepts and practical skills.
 
@@ -42,10 +44,12 @@ By successfully completing the final assessment, participants earn an **NVIDIA D
 - Transfer Learning
 - Natural Language Processing
 
-**Next Edition:**  
-- To be scheduled.
+**Next Edition:**
+
+To be scheduled.
 
 **Past Editions:**  
+
 - XXX
 
 3. **AI for Science (in collaboration with NVIDIA)**
@@ -68,9 +72,11 @@ A two-day course tailored for researchers aiming to accelerate scientific discov
 - Digital Biology with **BioNeMo**
 
 **Next Edition:**  
-- April 28–29, 2026 — Max Planck Computing and Data Facility — Garching (First edition) — `Learn more and register here. <https://events.gwdg.de/e/mpcdf-nvidia-ai-days>`_
+
+- April 28–29, 2026 — Max Planck Computing and Data Facility — Garching (First edition) — `Agenda <https://events.gwdg.de/e/mpcdf-nvidia-ai-days>`_
 
 **Past Editions:**  
+
 - XXX
 
 
