@@ -1,8 +1,8 @@
 Events
 ======
 
-MPCDF courses portfolio
-------------------------------
+MPCDF Courses Portfolio
+------------------------
 
 Since the beginning of the MaMMoS project, the Max Planck Computing and Data Facility has enriched its portfolio of educational courses with the three new offerings listed below.
 
@@ -14,15 +14,15 @@ Short, focused lectures alternate with practical, guided coding sessions to ensu
 
 **Format:** On-site  
 **Next Edition:**  
-- March 23–24, 2026  
-  Fritz Haber Institute of the Max Planck Society – Berlin  
+- March 23–24, 2026 - Fritz Haber Institute of the Max Planck Society – Berlin  
 
 **Past Editions:**  
 - XXX
 
 2. **Fundamentals of Deep Learning**
+-------------------------------
 
-*(In collaboration with the `NVIDIA Deep Learning Institute  <https://www.nvidia.com/en-us/training/>`_)*
+*(In collaboration with the NVIDIA Deep Learning Institute <https://www.nvidia.com/en-us/training/>)*
 
 This NVIDIA Deep Learning Institute (DLI) course provides a comprehensive, hands-on introduction to the fundamentals of deep learning.
 
@@ -45,12 +45,13 @@ By successfully completing the final assessment, participants earn an **NVIDIA D
 - Natural Language Processing
 
 **Next Edition:**  
-- To be scheduled  
+- To be scheduled.
 
 **Past Editions:**  
 - XXX
 
 3. **AI for Science**
+-------------------
 
 *(In collaboration with NVIDIA)*
 
