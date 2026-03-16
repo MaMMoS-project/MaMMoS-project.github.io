@@ -4,58 +4,81 @@ Events
 MPCDF courses portfolio
 ------------------------------
 
-Since the beginning of the MaMMoS project, the Max Planck Computing and Data Facility has enriched its portfolio of educational courses with the three new offers listed below.
+Since the beginning of the MaMMoS project, the Max Planck Computing and Data Facility has enriched its portfolio of educational courses with the three new offerings listed below.
 
-1. **Software Engineering in Python** - This course walks participants through the entire lifecycle of a Python project, from a single-script prototype to a fully version-controlled, tested, and publishable package ready to be developed collaboratively. Short, focused lectures alternate with practical, guided coding sessions to ensure that participants can immediately apply what they have just learned. While the hands-on exercises use Python, the core concepts (project structure, version control, testing strategies, CI/CD, documentation, etc.) are language-agnostic and transferable to other ecosystems. The course is held on-site.\
-\
-Coming editions:
-- March 23-24, 2026 - Fritz Haber Institute of the Max Planck Society - Berlin \
-\
-Past editions:
-- XXX\
+---
 
-2. **Fundamentals of Deep Learning (in collaboration with NVIDIA)** - This [NVIDIA Deep Learning Institute (DLI)](https://www.nvidia.com/en-us/training/) course provides a comprehensive, hands-on introduction to the fundamentals of deep learning. Through practical exercises, the participants will train neural networks from the ground up for both computer vision and natural language processing applications. They will gain experience with essential tools and techniques to enhance model performance, and discover how to efficiently apply cutting-edge, pre-trained models to accelerate their own projects. By successfully completing the final assessment, the participants will earn an NVIDIA DLI certificate, demonstrating their proficiency in foundational concepts and practical skills of deep learning.
-<br>
-Learning Objectives:
-  • Learning the fundamental techniques and tools required to train a deep learning model.
-  • Gaining experience with common deep learning data types and model architectures.
-  • Enhancing datasets through data augmentation to improve model accuracy.
-  • Leveraging transfer learning between models to achieve efficient results with less data and computation.
-  • Building confidence to take on your own project with a modern deep learning framework.
-<br>
-Topics Covered:
-  • PyTorch
-  • Convolutional Neural Networks (CNNS).
-  • Data Augmentation.
-  • Transfer Learning.
-  • Natural Language Processing.
-<br>
-Coming editions:
-- To be scheduled.
-<br>
-Past editions:
+## 1. **Software Engineering in Python**
+
+This course walks participants through the entire lifecycle of a Python project — from a single-script prototype to a fully version-controlled, tested, and publishable package ready for collaborative development. Short, focused lectures alternate with practical, guided coding sessions to ensure participants can immediately apply what they’ve learned. While the hands-on exercises use Python, the core concepts (project structure, version control, testing strategies, CI/CD, documentation, etc.) are language-agnostic and transferable to other ecosystems.
+
+**Format:** On-site  
+**Next Edition:**  
+- March 23–24, 2026  
+  Fritz Haber Institute of the Max Planck Society – Berlin  
+
+**Past Editions:**  
 - XXX
 
+---
 
-3. **AI for Science (in collaboration with NVIDIA)** - A two-day course tailored for researchers looking to accelerate scientific discovery with AI. The first chapter of the course dives into the latest concepts for training, fine‑tuning and efficiently deploying Large Language Models, while the second highlights AI‑driven breakthroughs in physics, medical imaging and digital biology.
-<br>
-Topics covered:
-Chapter 1 – Adding new knowledge to LLMs
-• Dataset preparation & curation.
-• Continual pre‑training.
-• Low‑precision training.
-• Supervised fine‑tuning, alignment & evaluation.
-• Model compression & inference optimizations.
-<br>
-Chapter 2 – AI for Science (half day)
-• Physics‑informed AI with PhysicsNeMo.
-• Data Science with RAPIDS.
-• Medical imaging with MONAI.
-• Digital biology with BioNeMo. 
-<br>
-Coming editions:
-- April 28-29, 2026 - Max Planck Computing and Data Facility - Garching (1st edition). Check out the details [here.](https://events.gwdg.de/e/mpcdf-nvidia-ai-days)
+## 2. **Fundamentals of Deep Learning**  
+*(In collaboration with the [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/))*
 
+This NVIDIA Deep Learning Institute (DLI) course provides a comprehensive, hands-on introduction to the fundamentals of deep learning.
+
+Through practical exercises, participants will train neural networks from the ground up for both computer vision and natural language processing applications. They’ll gain experience with essential tools and techniques to enhance model performance and learn how to efficiently apply cutting-edge pre-trained models to accelerate their own projects.
+
+By successfully completing the final assessment, participants earn an **NVIDIA DLI certificate**, demonstrating proficiency in foundational deep learning concepts and practical skills.
+
+### Learning Objectives
+- Learn the fundamental techniques and tools required to train a deep learning model.
+- Gain experience with common deep learning data types and model architectures.
+- Enhance datasets through data augmentation to improve model accuracy.
+- Leverage transfer learning to achieve efficient results with less data and computation.
+- Build confidence to tackle your own project using a modern deep learning framework.
+
+### Topics Covered
+- PyTorch  
+- Convolutional Neural Networks (CNNs)  
+- Data Augmentation  
+- Transfer Learning  
+- Natural Language Processing  
+
+**Next Edition:**  
+- To be scheduled  
+
+**Past Editions:**  
+- XXX
+
+---
+
+## 3. **AI for Science**  
+*(In collaboration with NVIDIA)*
+
+A two-day course tailored for researchers aiming to accelerate scientific discovery with AI.
+
+### Chapter 1 – Adding New Knowledge to Large Language Models (LLMs)
+- Dataset preparation & curation  
+- Continual pre-training  
+- Low-precision training  
+- Supervised fine-tuning, alignment & evaluation  
+- Model compression & inference optimizations  
+
+### Chapter 2 – AI for Science (Half Day)
+- Physics-informed AI with **PhysicsNeMo**  
+- Data Science with **RAPIDS**  
+- Medical Imaging with **MONAI**  
+- Digital Biology with **BioNeMo**
+
+**Next Edition:**  
+- April 28–29, 2026  
+  Max Planck Computing and Data Facility – Garching  
+  *(First edition)*  
+  [Learn more and register here →](https://events.gwdg.de/e/mpcdf-nvidia-ai-days)
+
+**Past Editions:**  
+- XXX
 
 MaMMoS Webinar Series
 ---------------------
