@@ -36,17 +36,27 @@ Through practical exercises, participants will train neural networks from the gr
 By successfully completing the final assessment, participants earn an **NVIDIA DLI certificate**, demonstrating proficiency in foundational deep learning concepts and practical skills.
 
 **Learning Objectives**
+
 - Learn the fundamental techniques and tools required to train a deep learning model.
+
 - Gain experience with common deep learning data types and model architectures.
+
 - Enhance datasets through data augmentation to improve model accuracy.
+
 - Leverage transfer learning to achieve efficient results with less data and computation.
+
 - Build confidence to tackle your own project using a modern deep learning framework.
 
 **Topics Covered**
+
 - PyTorch
+
 - Convolutional Neural Networks (CNNs)
+
 - Data Augmentation
+
 - Transfer Learning
+
 - Natural Language Processing
 
 **Next Edition:**
@@ -63,18 +73,27 @@ To be scheduled.
 
 A two-day course tailored for researchers aiming to accelerate scientific discovery with AI.
 
-**Chapter 1 – Adding New Knowledge to Large Language Models (LLMs)**
+Chapter 1 – Adding New Knowledge to Large Language Models (LLMs)
+
 - Dataset preparation & curation
+
 - Continual pre-training
+
 - Low-precision training
+
 - Supervised fine-tuning, alignment & evaluation
+
 - Model compression & inference optimizations
 
-**Chapter 2 – AI for Science (Half Day)**
-- Physics-informed AI with **PhysicsNeMo**
-- Data Science with **RAPIDS**
-- Medical Imaging with **MONAI**
-- Digital Biology with **BioNeMo**
+Chapter 2 – AI for Science (Half Day)
+
+- Physics-informed AI with PhysicsNeMo.
+
+- Data Science with RAPIDS.
+
+- Medical Imaging with MONAI.
+
+- Digital Biology with BioNeMo.
 
 **Next Edition:**  
 
