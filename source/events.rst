@@ -12,7 +12,6 @@ This course walks participants through the entire lifecycle of a Python project 
 
 Short, focused lectures alternate with practical, guided coding sessions to ensure participants can immediately apply what they’ve learned. While the hands-on exercises use Python, the core concepts (project structure, version control, testing strategies, CI/CD, documentation, etc.) are language-agnostic and transferable to other ecosystems.
 
-**Format:** On-site  
 **Next Edition:**  
 - March 23–24, 2026 - Fritz Haber Institute of the Max Planck Society – Berlin  
 
