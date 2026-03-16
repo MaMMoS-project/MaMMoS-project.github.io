@@ -1,6 +1,113 @@
 Events
 ======
 
+MPCDF Courses Portfolio
+------------------------
+
+Since the beginning of the MaMMoS project, the Max Planck Computing and Data Facility has enriched its portfolio of educational courses with the three new offerings listed below.
+
+1. **Software Engineering in Python**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+This course walks participants through the entire lifecycle of a Python project, spanning from a single-script prototype to a fully version-controlled, tested, and publishable package ready for collaborative development.
+
+Short, focused lectures alternate with practical, guided coding sessions to ensure participants can immediately apply what they have learned. While the hands-on exercises use Python, the core concepts (project structure, version control, testing strategies, CI/CD, documentation, etc.) are language-agnostic and transferable to other ecosystems.
+
+**Next Edition:**
+
+- 23–24 March 2026, Fritz Haber Institute of the Max Planck Society, Berlin.
+
+**Past Editions:**
+
+- 2-3 March 2026, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig.
+- 17-18 November 2025, Max Planck Institute for Plasma Physics, Garching.
+- 26-28 May 2025, Fritz Haber Institute of the Max Planck Society, Berlin.
+
+
+2. **Fundamentals of Deep Learning (in collaboration with the NVIDIA Deep Learning Institute)**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+This `NVIDIA Deep Learning Institute`_ (DLI) course provides a comprehensive, hands-on introduction to the fundamentals of deep learning.
+
+.. _NVIDIA Deep Learning Institute: https://www.nvidia.com/en-us/training/
+
+Through practical exercises, participants will train neural networks from the ground up for both computer vision and natural language processing applications. They will gain experience with essential tools and techniques to enhance model performance and learn how to efficiently apply cutting-edge pre-trained models to accelerate their own projects.
+
+By successfully completing the final assessment, participants earn an **NVIDIA DLI certificate**, demonstrating proficiency in foundational deep learning concepts and practical skills.
+
+**Learning Objectives**
+
+- Learn the fundamental techniques and tools required to train a deep learning model.
+
+- Gain experience with common deep learning data types and model architectures.
+
+- Enhance datasets through data augmentation to improve model accuracy.
+
+- Leverage transfer learning to achieve efficient results with less data and computation.
+
+- Build confidence to tackle your own project using a modern deep learning framework.
+
+**Topics Covered**
+
+- PyTorch.
+
+- Convolutional Neural Networks (CNNs).
+
+- Data Augmentation.
+
+- Transfer Learning.
+
+- Natural Language Processing.
+
+**Next Edition:**
+
+To be scheduled.
+
+**Past Editions:**
+
+- 4 March 2026, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig.
+- 9 December 2025, Max Planck Computing and Data Facility, Garching.
+- 21 October 2025, Max Planck Computing and Data Facility, Garching.
+
+3. **AI for Science (in collaboration with NVIDIA)**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+A two-day course tailored for researchers aiming to accelerate scientific discovery with AI.
+
+Chapter 1 – Adding New Knowledge to Large Language Models (LLMs)
+
+- Dataset preparation and curation.
+
+- Continual pre-training.
+
+- Low-precision training.
+
+- Supervised fine-tuning, alignment and evaluation.
+
+- Model compression and inference optimizations.
+
+Chapter 2 – AI for Science (Half Day)
+
+- Physics-informed AI with PhysicsNeMo.
+
+- Data Science with RAPIDS.
+
+- Medical Imaging with MONAI.
+
+- Digital Biology with BioNeMo.
+
+**Next Edition:**
+
+- 28–29 April 2026, Max Planck Computing and Data Facility, Garching (First edition). `Link to the agenda. <https://events.gwdg.de/e/mpcdf-nvidia-ai-days>`_
+
+**Past Editions:**
+
+- None.
+
+
 MaMMoS Webinar Series
 ---------------------
 
