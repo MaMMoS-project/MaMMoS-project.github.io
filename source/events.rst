@@ -22,8 +22,9 @@ Short, focused lectures alternate with practical, guided coding sessions to ensu
 - XXX
 
 
-2. **Fundamentals of Deep Learning (in collaboration with the NVIDIA Deep Learning Institute <https://www.nvidia.com/en-us/training>)**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2. **Fundamentals of Deep Learning (in collaboration with NVIDIA Deep Learning Institute_)**
+
+.. _NVIDIA Deep Learning Institute: https://www.nvidia.com/en-us/training/^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This NVIDIA Deep Learning Institute (DLI) course provides a comprehensive, hands-on introduction to the fundamentals of deep learning.
 
