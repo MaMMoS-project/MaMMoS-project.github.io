@@ -7,6 +7,7 @@ MPCDF Courses Portfolio
 Since the beginning of the MaMMoS project, the Max Planck Computing and Data Facility has enriched its portfolio of educational courses with the three new offerings listed below.
 
 1. **Software Engineering in Python**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This course walks participants through the entire lifecycle of a Python project — from a single-script prototype to a fully version-controlled, tested, and publishable package ready for collaborative development.
 
@@ -18,7 +19,8 @@ Short, focused lectures alternate with practical, guided coding sessions to ensu
 **Past Editions:**  
 - XXX
 
-2. **Fundamentals of Deep Learning** *(in collaboration with the NVIDIA Deep Learning Institute <https://www.nvidia.com/en-us/training/>)*
+2. **Fundamentals of Deep Learning** *(in collaboration with the `NVIDIA Deep Learning Institute <https://www.nvidia.com/en-us/training/>`__)*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This NVIDIA Deep Learning Institute (DLI) course provides a comprehensive, hands-on introduction to the fundamentals of deep learning.
 
@@ -47,6 +49,8 @@ By successfully completing the final assessment, participants earn an **NVIDIA D
 - XXX
 
 3. **AI for Science** *(in collaboration with NVIDIA)*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 A two-day course tailored for researchers aiming to accelerate scientific discovery with AI.
 
