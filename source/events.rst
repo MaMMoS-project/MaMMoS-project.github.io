@@ -15,11 +15,13 @@ Short, focused lectures alternate with practical, guided coding sessions to ensu
 
 **Next Edition:**
 
-- March 23–24, 2026 — Fritz Haber Institute of the Max Planck Society — Berlin  
+- 23–24 March 2026, Fritz Haber Institute of the Max Planck Society, Berlin.
 
 **Past Editions:**  
 
-- XXX
+- 2-3 March 2026, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig.
+- 17-18 November 2025, Max Planck Institute for Plasma Physics, Garching.
+- 26-28 May 2025, Fritz Haber Institute of the Max Planck Society, Berlin.
 
 
 2. **Fundamentals of Deep Learning (in collaboration with the NVIDIA Deep Learning Institute)**
@@ -49,15 +51,15 @@ By successfully completing the final assessment, participants earn an **NVIDIA D
 
 **Topics Covered**
 
-- PyTorch
+- PyTorch.
 
-- Convolutional Neural Networks (CNNs)
+- Convolutional Neural Networks (CNNs).
 
-- Data Augmentation
+- Data Augmentation.
 
-- Transfer Learning
+- Transfer Learning.
 
-- Natural Language Processing
+- Natural Language Processing.
 
 **Next Edition:**
 
@@ -65,7 +67,9 @@ To be scheduled.
 
 **Past Editions:**  
 
-- XXX
+- 4 March 2026, Max Planck Institute for Human Cognitive and Brain Sciences Leipzig.
+- 9 December 2025, Max Planck Computing and Data Facility, Garching.
+- 21 October 2025, Max Planck Computing and Data Facility, Garching.
 
 3. **AI for Science (in collaboration with NVIDIA)**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -75,15 +79,15 @@ A two-day course tailored for researchers aiming to accelerate scientific discov
 
 Chapter 1 – Adding New Knowledge to Large Language Models (LLMs)
 
-- Dataset preparation & curation
+- Dataset preparation & curation.
 
-- Continual pre-training
+- Continual pre-training.
 
-- Low-precision training
+- Low-precision training.
 
-- Supervised fine-tuning, alignment & evaluation
+- Supervised fine-tuning, alignment & evaluation.
 
-- Model compression & inference optimizations
+- Model compression & inference optimizations.
 
 Chapter 2 – AI for Science (Half Day)
 
@@ -97,11 +101,11 @@ Chapter 2 – AI for Science (Half Day)
 
 **Next Edition:**  
 
-- April 28–29, 2026 — Max Planck Computing and Data Facility — Garching (First edition) — `Agenda <https://events.gwdg.de/e/mpcdf-nvidia-ai-days>`_
+- 28–29 April 2026, Max Planck Computing and Data Facility, Garching (First edition). `Link to the agenda. <https://events.gwdg.de/e/mpcdf-nvidia-ai-days>`_
 
 **Past Editions:**  
 
-- XXX
+- None.
 
 
 MaMMoS Webinar Series
