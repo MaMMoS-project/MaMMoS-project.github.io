@@ -59,6 +59,9 @@ documentation:
    * - `mammos <https://github.com/mammos-project/mammos>`__
        (`documentation <https://mammos-project.github.io/mammos>`__)
      - Meta package to install the full MaMMoS simulation suite.
+   * - `mammos-ai <https://github.com/mammos-project/mammos-ai>`__
+       (`documentation <https://mammos-project.github.io/mammos>`__)
+     - Pre-trained AI models.
    * - `mammos-analysis <https://github.com/mammos-project/mammos-analysis>`__
        (`documentation <https://mammos-project.github.io/mammos>`__)
      -  Post-processing (hysteresis loop, kuzmin, ...).
