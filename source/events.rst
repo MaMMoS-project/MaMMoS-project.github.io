@@ -1,6 +1,24 @@
 Events
 ======
 
+Best Poster Award at iSIM 2026
+------------------------------
+
+Our contribution to the MaMMoS project, presented by Santa Pile, received the Best Poster Award at the iSIM Symposium 2026 in Manchester.
+
+.. image:: _static/iSIM_2026_Best_Poster_Award.jpg
+    :width: 400
+.. image:: _static/iSIM_2026_Best_Poster_Award_Santa.jpg
+    :width: 400
+
+The award‑winning poster, titled “MaMMoS: Ontology‑linked FAIR Workflows from Magnetometry Data to Sensor Optimisation,” presented key research results in the field of Integrated Magnetics.
+
+.. image:: _static/iSIM_2026_Best_Poster_Award_Group.jpg
+    :width: 800
+
+On the photo (from left to right): Heike Herper, Wilfried Hortschitz, Alena Vishina, Hans Fangohr, Santa Pile, and Jonas Winkler
+
+
 MPCDF Courses Portfolio
 ------------------------
 
