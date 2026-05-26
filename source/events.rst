@@ -1,6 +1,19 @@
 Events
 ======
 
+MaMMos at the Long Night of Research 2026
+-----------------------------------------
+
+On April 24, 2026, researchers involved in the *MaMMos project* from the Department for Integrated Sensor Systems (University for Continuing Education Krems) participated in the Long Night of Research in Krems and Wiener Neustadt, presenting their work to a broad audience.
+
+Contributions from MaMMos team members were featured in the interactive stations `“Magnetic Superpowers” <https://langenachtderforschung.at/station/7339>`__ (AI for high-performance magnetic materials) and `“The Smallest Electric Motor” <https://langenachtderforschung.at/station/5279>`__ (miniaturized electromagnetic systems).
+
+The exhibits attracted strong interest and fostered engaging discussions, highlighting how ongoing research—including activities within MaMMos—supports innovation in AI, sustainability, and microsystems engineering.
+
+.. image:: _static/20260424_210617.jpg
+    :width: 800
+
+
 Best Poster Award at iSIM 2026
 ------------------------------
 
