@@ -81,6 +81,13 @@ documentation:
        (`documentation <https://mammos-project.github.io/mammos>`__)
      - Quantities (values with units).
 
+Magnetic materials domain ontology
+----------------------------------
+
+As part of the MaMMoS project the EMMO-based domain specific ontology
+`Magnetic Materials domain Ontology (MagMO) <https://emmo-repo.github.io/domain-magnetic-materials/>`__
+was created. The development takes place in the `emmo-repo/domain-magnetic-materials repository <https://github.com/emmo-repo/domain-magnetic-materials>`__.
+
 Additional Tools
 ----------------
 
