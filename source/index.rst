@@ -86,7 +86,7 @@ Magnetic materials domain ontology
 
 As part of the MaMMoS project an EMMO-based
 `domain ontology for magnetic materials (MagMO) <https://emmo-repo.github.io/domain-magnetic-materials/>`__
-was created. The development takes place in https://github.com/emmo-repo/domain-magnetic-materials>.
+was created. The development takes place in https://github.com/emmo-repo/domain-magnetic-materials.
 
 The `mammos-entity <https://github.com/mammos-project/mammos-entity>`__ Python package provides a convenient way of annotating raw data with metadata supplied by the ontology (EMMO and MagMO), e.g. by writing metadata-enriched files.
 
