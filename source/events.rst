@@ -1,6 +1,14 @@
 Events
 ======
 
+MaMMoS Project Meeting 2026 in Uppsala
+--------------------------------------
+
+Project partners gathered at Uppsala University, Sweden, on 30 June – 1 July 2026 for the annual MaMMoS consortium meeting. During the two-day event, participants reviewed progress across all work packages, discussed upcoming deliverables and software releases, and aligned on goals for the next project year. We thank Uppsala University for the excellent organization and hospitality.
+
+.. image:: _static/Uppsala2026.png
+    :width: 600
+
 MaMMos at the Long Night of Research 2026
 -----------------------------------------
 
