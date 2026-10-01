@@ -1,0 +1,17 @@
+[workspace]
+authors = ["Santa Pile <santaep@gmail.com>"]
+channels = ["conda-forge"]
+name = "MaMMoS-project.github.io"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.14.7,<3.15"
+mammos-units = ">=0.3.2,<0.4"
+sphinx = ">=9.1.0,<10"
+pydata-sphinx-theme = ">=0.22.0,<0.23"
+pytest = ">=9.1.1,<10"
+pyexecjs = ">=1.5.1,<2"
+sphinx-design = ">=0.7.0,<0.8"

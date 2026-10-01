@@ -11,6 +11,7 @@
    :maxdepth: 1
 
    Home <self>
+   examples
    objectives
    who-we-are
    events
