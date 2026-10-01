@@ -27,20 +27,27 @@
      - `Sensor demonstrator <https://mammos-project.github.io/mammos/demonstrator/sensor.html>`_
        →
        `mammos-mumag <https://mammos-project.github.io/mammos/examples/mammos-mumag/index.html>`_
-       → optimisation workflow
+       →
+       `optimisation workflow <https://github.com/MaMMoS-project/dakota-sensor-optimization>`_
 
    * - Analyse experimental data
      - "I have VSM/SEM/HDF5 data. How do I extract magnetic/material parameters?"
-     - ``magmeas``, ``sem_io``, ``Read_HDF5``, ``DaHU``,
+     - `magmeas <https://github.com/MaMMoS-project/magmeas>`_,
+       `sem_io <https://github.com/MaMMoS-project/sem_io>`_,
+       `Read_HDF5 <https://github.com/MaMMoS-project/Advanced_Data_Visualization>`_,
+       `DaHU <https://github.com/MaMMoS-project/DaHU>`_,
        `mammos-analysis <https://mammos-project.github.io/mammos/examples/mammos-analysis/index.html>`_
 
    * - Connect data and models
      - "How do I make my data interoperable between methods/scales?"
      - `mammos-entity <https://mammos-project.github.io/mammos/examples/mammos-entity/index.html>`_,
        `mammos-units <https://mammos-project.github.io/mammos/examples/mammos-units/index.html>`_,
-       MagMO, ``mochada_kit``, NOMAD tools
+       `MagMO <https://github.com/MaMMoS-project/MagneticMaterialsOntology>`_,
+       `mochada_kit <https://github.com/MaMMoS-project/mochada_kit>`_,
+       `NOMAD tools <https://github.com/MaMMoS-project/nomad>`_
 
    * - Run a complete MaMMoS workflow
      - "Show me an end-to-end example."
      - `MaMMoS Demonstrator <https://mammos-project.github.io/mammos/demonstrator/index.html>`_
-       / Jupyter notebooks
+       /
+       `Jupyter notebooks <https://github.com/MaMMoS-project/mammos>`_
