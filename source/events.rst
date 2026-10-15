@@ -164,7 +164,21 @@ To be scheduled
 
 - 7–8 October 2026, Max Planck Computing and Data Facility, Garching (First edition).
 
-5. 
+5. **AMD AI Days**
+^^^^^^^^^^^^^^^^^^^
+
+AMD AI Days brings hands-on AI and machine learning training for AMD GPUs to the Max Planck Society.
+
+Over 1.5 days, participants will get a practical introduction to the AI ecosystem on AMD hardware, covering topics from container workflows and PyTorch training to LLM optimization, profiling, and inference benchmarking. The workshop closes with a look at more advanced applications, including neural operators, surrogate models, and a hands-on Tiny LLaMA example.
+
+
+**Next Edition:**
+
+To be scheduled
+
+**Past Editions:**
+
+- 5-6 October 2026, Max Planck Computing and Data Facility, Garching (First edition).
 
 
 MaMMoS Webinar Series
