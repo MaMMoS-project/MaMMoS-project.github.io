@@ -143,11 +143,28 @@ Chapter 2 – AI for Science (Half Day)
 
 **Next Edition:**
 
-- 28–29 April 2026, Max Planck Computing and Data Facility, Garching (First edition). `Link to the agenda. <https://events.gwdg.de/e/mpcdf-nvidia-ai-days>`_
+To be scheduled
 
 **Past Editions:**
 
-- None.
+- 28–29 April 2026, Max Planck Computing and Data Facility, Garching (First edition).
+
+4. **Agentic AI for Science**
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+AI agents are reshaping the way scientific research is conducted. Unlike traditional AI tools, agents can plan, reason across multiple sources, and carry complex tasks through many steps autonomously, from literature review and data analysis to code development and simulation workflows. This workshop brings together researchers, research software engineers, and industry partners to explore the current state and future potential of agentic AI in science.
+
+The event is structured over two days and will be held in person at MPCDF, in Garching bei München. Day 1 combines hands-on tutorials with real-world experiences from Max Planck researchers. Participants will get a practical introduction to AI agents followed by talks from MPG groups actively using agents in their research workflows. Day 2 broadens the perspective with contributions from leading industry partners, showcasing their latest solutions and discussing how agentic AI is being adopted across the research landscape.
+
+**Next Edition:**
+
+To be scheduled
+
+**Past Editions:**
+
+- 7–8 October 2026, Max Planck Computing and Data Facility, Garching (First edition).
+
+5. 
 
 
 MaMMoS Webinar Series
