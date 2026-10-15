@@ -54,10 +54,11 @@ Short, focused lectures alternate with practical, guided coding sessions to ensu
 
 **Next Edition:**
 
-- 23–24 March 2026, Fritz Haber Institute of the Max Planck Society, Berlin.
+To be scheduled.
+
 
 **Past Editions:**
-
+- 23–24 March 2026, Fritz Haber Institute of the Max Planck Society, Berlin.
 - 2-3 March 2026, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig.
 - 17-18 November 2025, Max Planck Institute for Plasma Physics, Garching.
 - 26-28 May 2025, Fritz Haber Institute of the Max Planck Society, Berlin.
@@ -106,6 +107,8 @@ To be scheduled.
 
 **Past Editions:**
 
+- 8 December 2026, Max Planck Computing and Data Facility, Garching.
+- 27 October 2026, Max Planck Computing and Data Facility, Garching.
 - 4 March 2026, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig.
 - 9 December 2025, Max Planck Computing and Data Facility, Garching.
 - 21 October 2025, Max Planck Computing and Data Facility, Garching.
