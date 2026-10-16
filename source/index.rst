@@ -45,10 +45,14 @@ Find the MaMMoS tools and workflows that best match what you want to do.
     :gutter: 4
 
     .. grid-item-card:: `Explore a magnetic material <https://mammos-project.github.io/mammos/demonstrator/spindynamics-temperature-dependent-parameters.html>`_
-        :img-top: /_static/magnetic_material.png
-        :img-alt: Explore a magnetic material
         :text-align: center
         :class-card: mammos-usecase-card
+
+        .. image:: /_static/magnetic_material.png
+         :alt: Explore a magnetic material
+         :target: https://mammos-project.github.io/mammos/demonstrator/spindynamics-temperature-dependent-parameters.html
+         :class: mammos-card-image
+         :width: 100%
 
         *"I know the composition/crystal structure. What magnetic properties can I obtain?"*
 
@@ -66,10 +70,14 @@ Find the MaMMoS tools and workflows that best match what you want to do.
         `mammos-entity <https://mammos-project.github.io/mammos/examples/mammos-entity/index.html>`_
 
     .. grid-item-card:: `Hard magnet material exploration <https://mammos-project.github.io/mammos/demonstrator/hard-magnet-material-exploration.html>`_
-        :img-top: /_static/permanent_magnet.png
-        :img-alt: Hard magnet material exploration
         :text-align: center
         :class-card: mammos-usecase-card
+
+        .. image:: /_static/permanent_magnet.png
+         :alt: Hard magnet material exploration
+         :target: https://mammos-project.github.io/mammos/demonstrator/hard-magnet-material-exploration.html
+         :class: mammos-card-image
+         :width: 100%
 
         *"How do hard-magnet properties such as coercivity change with material and temperature?"*
 
@@ -91,10 +99,14 @@ Find the MaMMoS tools and workflows that best match what you want to do.
         `mammos-entity <https://mammos-project.github.io/mammos/examples/mammos-entity/index.html>`_
 
     .. grid-item-card:: `Analyse experimental data <https://mammos-project.github.io/magmeas/notebooks/getting_started.html>`_
-        :img-top: /_static/experimental_data.png
-        :img-alt: Analyse experimental data
         :text-align: center
         :class-card: mammos-usecase-card
+
+        .. image:: /_static/experimental_data.png
+         :alt: Analyse experimental data
+         :target: https://mammos-project.github.io/magmeas/notebooks/getting_started.html
+         :class: mammos-card-image
+         :width: 100%
 
         *"I have VSM/SEM/HDF5 data. How do I extract magnetic/material parameters?"*
 
@@ -107,10 +119,14 @@ Find the MaMMoS tools and workflows that best match what you want to do.
         `mammos-analysis <https://mammos-project.github.io/mammos/examples/mammos-analysis/index.html>`_
 
     .. grid-item-card:: `Sensor shape optimization workflow <https://mammos-project.github.io/mammos/demonstrator/sensor.html>`_
-        :img-top: /_static/sensor.png
-        :img-alt: Sensor shape optimization workflow
         :text-align: center
         :class-card: mammos-usecase-card
+
+        .. image:: /_static/sensor.png
+         :alt: Sensor shape optimization workflow
+         :target: https://mammos-project.github.io/mammos/demonstrator/sensor.html
+         :class: mammos-card-image
+         :width: 100%
 
         *"How can the shape of a magnetic sensor element be optimized to maximize its linear response range?"*
 
@@ -132,10 +148,14 @@ Find the MaMMoS tools and workflows that best match what you want to do.
         `mammos-entity <https://mammos-project.github.io/mammos/examples/mammos-entity/index.html>`_
 
     .. grid-item-card:: `Connect data and models <https://mammos-project.github.io/mammos/examples/mammos-entity/quickstart.html>`_
-        :img-top: /_static/interoperability.png
-        :img-alt: Connect data and models
         :text-align: center
         :class-card: mammos-usecase-card
+
+        .. image:: /_static/interoperability.png
+         :alt: Connect data and models
+         :target: https://mammos-project.github.io/mammos/examples/mammos-entity/quickstart.html
+         :class: mammos-card-image
+         :width: 100%
 
         *"How do I make my data interoperable between methods/scales?"*
 
@@ -149,10 +169,14 @@ Find the MaMMoS tools and workflows that best match what you want to do.
 
 
     .. grid-item-card:: `Run a complete MaMMoS workflow <https://mammos-project.github.io/mammos/demonstrator/index.html>`_
-        :img-top: /_static/workflow.png
-        :img-alt: Run a complete MaMMoS workflow
         :text-align: center
         :class-card: mammos-usecase-card
+
+        .. image:: /_static/workflow.png
+         :alt: Run a complete MaMMoS workflow
+         :target: https://mammos-project.github.io/mammos/demonstrator/index.html
+         :class: mammos-card-image
+         :width: 100%
 
         *"Show me an end-to-end example."*
 
