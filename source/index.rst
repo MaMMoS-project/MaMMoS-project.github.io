@@ -37,7 +37,7 @@ What can you do with MaMMoS?
 
 MaMMoS connects experiments, simulations and AI across magnetic length scales.
 Its Python tools make modelling, characterisation and optimisation interoperable.
-**Focus:** resource-efficient permanent magnets and high-perfomance magnetic sensors.
+**Focus:** resource-efficient permanent magnets and high-performance magnetic sensors.
 
 Find the MaMMoS tools and workflows that best match what you want to do.
 
@@ -114,7 +114,7 @@ Find the MaMMoS tools and workflows that best match what you want to do.
 
         `magmeas <https://github.com/MaMMoS-project/magmeas>`_,
         `sem_io <https://github.com/MaMMoS-project/sem_io>`_,
-        `Read_HDF5 <https://github.com/MaMMoS-project/Advanced_Data_Visualization>`_,
+        `Advanced_Data_Visualization <https://github.com/MaMMoS-project/Advanced_Data_Visualization>`_,
         `DaHU <https://github.com/MaMMoS-project/DaHU>`_,
         `mammos-analysis <https://mammos-project.github.io/mammos/examples/mammos-analysis/index.html>`_
 
@@ -264,8 +264,8 @@ documentation:
    * - `DaHU <https://github.com/MaMMoS-project/DaHU>`__
        (`documentation <https://github.com/MaMMoS-project/DaHU/blob/main/README.md>`__)
      - Data analysis dashboard for specific instruments at Institut Néel
-   * - `Read_HDF5 <https://github.com/MaMMoS-project/Read_HDF5>`__
-       (`documentation <https://github.com/MaMMoS-project/Read_HDF5/blob/main/readme.md>`__)
+   * - `Advanced_Data_Visualization <https://github.com/MaMMoS-project/Advanced_Data_Visualization>`__
+       (`documentation <https://github.com/MaMMoS-project/Advanced_Data_Visualization/blob/main/readme.md>`__)
      - Data tools to read and write HDF5 files at Institute Néel
    * - `nomad <https://github.com/MaMMoS-project/nomad>`__
        (`documentation <https://github.com/MaMMoS-project/nomad/blob/main/README.md>`__)
