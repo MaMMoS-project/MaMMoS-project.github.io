@@ -29,12 +29,15 @@ materials and devices. The goal of this project is to develop a magnetic multisc
 allow the design and optimisation of magnetic materials and devices based on multiscale modelling,
 characterisation, and numerical optimisation.
 
+.. .. image:: _static/sectors.png
+..     :width: 600
 
-.. image:: _static/sectors.png
-    :width: 600
+What can you do with MaMMoS?
+------------------------------
 
-Examples and Workflows
--------------------------
+MaMMoS connects experiments, simulations and AI across magnetic length scales.
+Its Python tools make modelling, characterisation and optimisation interoperable.
+**Focus:** resource-efficient permanent magnets and high-perfomance magnetic sensors.
 
 Find the MaMMoS tools and workflows that best match what you want to do.
 
