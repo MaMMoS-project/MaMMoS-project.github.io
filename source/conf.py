@@ -16,6 +16,7 @@ author = 'MaMMos collaboration'
 extensions = [
     'sphinx.ext.githubpages',  # creates .nojekyll file in HTML directory
     'sphinxcontrib.email', 
+    'sphinx_design',
 ]
 
 templates_path = ['_templates']
