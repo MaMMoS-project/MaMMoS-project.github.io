@@ -58,6 +58,7 @@ To be scheduled.
 
 
 **Past Editions:**
+
 - 23–24 March 2026, Fritz Haber Institute of the Max Planck Society, Berlin.
 - 2-3 March 2026, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig.
 - 17-18 November 2025, Max Planck Institute for Plasma Physics, Garching.
