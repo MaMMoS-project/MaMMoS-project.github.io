@@ -16,6 +16,9 @@ pytest = ">=9.1.1,<10"
 pyexecjs = ">=1.5.1,<2"
 sphinx-design = ">=0.7.0,<0.8"
 nodejs = ">=20"
+mammos-analysis = ">=0.6.0,<0.7"
+mammos-entity = ">=0.14.0,<0.15"
+bokeh = ">=3.9.2,<4"
 
 [pypi-dependencies]
 sphinxcontrib-email = ">=0.3.6, <0.4"

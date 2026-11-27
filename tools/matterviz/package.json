@@ -1,0 +1,1 @@
+{"name":"mammos-matterviz","private":true,"type":"module","dependencies":{"esbuild":"^0.24.0","esbuild-svelte":"^0.9.5","matterviz":"github:janosh/matterviz#f76bbc27e6edb1c6d5676aa5e1d65733edb08e26","svelte":"^5.59.2"}}

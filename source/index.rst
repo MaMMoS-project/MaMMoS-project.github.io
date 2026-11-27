@@ -14,8 +14,9 @@
    objectives
    who-we-are
    events
-   units
+   materials/index
    resources
+   units
    open-positions
    related-eu-projects
 
