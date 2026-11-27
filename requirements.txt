@@ -1,7 +1,0 @@
-sphinx
-sphinx-design
-pydata-sphinx-theme
-sphinxcontrib-email
-pytest
-mammos_units
-PyExecJS

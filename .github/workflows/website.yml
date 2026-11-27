@@ -20,19 +20,19 @@ jobs:
     - name: Initialisation
       uses: actions/checkout@v4
 
-    - name: Setup Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.11'
-
     - name: Setup environment
-      run: pip install -r requirements.txt
+      uses: prefix-dev/setup-pixi@v0.11.3
+
+    - name: generate materials pages
+      run: |
+        git clone --depth 1 https://github.com/MaMMoS-project/uppsala-data.git ../uppsala-data
+        pixi run python tools/generate_materials.py ../uppsala-data
 
     - name: build website
-      run: make html
+      run: pixi run make html
 
     - name: link check
-      run: make linkcheck
+      run: pixi run make linkcheck
       continue-on-error: true  # check for broken links but do not fail job, an error is still displayed in the job output
 
     - name: upload pages artifacts

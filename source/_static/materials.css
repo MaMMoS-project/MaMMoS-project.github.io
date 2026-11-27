@@ -1,0 +1,26 @@
+/* Materials pages: structure viewer, temperature charts and data tables. */
+/* Shown until matterviz mounts its shadow root, which hides it; 500px is the viewer's height,
+   so the page does not jump when it loads. */
+.mammos-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  margin: 0;
+  border-radius: 0.25rem;
+  background: var(--pst-color-surface);
+  color: var(--pst-color-text-muted);
+}
+/* matterviz picks its light or dark colours from color-scheme; follow the site's theme, not the system's. */
+html[data-theme="light"] .mammos-structure {
+  color-scheme: light;
+}
+html[data-theme="dark"] .mammos-structure {
+  color-scheme: dark;
+}
+.mammos-charts {
+  margin: 1rem 0;
+}
+.mammos-data-table table {
+  font-size: 0.85rem;
+}
